@@ -1,0 +1,36 @@
+body {
+  background-color: #fcfcfc;
+  font-family: Verdana;
+  padding: 20px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  color: rgb(0, 0, 27);
+  font: size 50px; 
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+
+}
+
+.bloque-centro {
+  background-color: #bbffd8;      /* Color del centro */
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 800px;            /* Ajusta el ancho */
+  border-radius: 20px;
+}
+
+.img2 {
+  width: 100%;
+  height: 100%;
+}
